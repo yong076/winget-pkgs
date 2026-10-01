@@ -22,7 +22,6 @@ Installers:
     ProductCode: Agent Cat
     AppsAndFeaturesEntries:
       - DisplayName: Agent Cat
-        DisplayVersion: 26.40.0
         Publisher: trappist
         ProductCode: Agent Cat
         InstallerType: nullsoft
